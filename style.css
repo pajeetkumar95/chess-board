@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+}
+.white{
+    background-color: white;
+    height: 90px;
+    width: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.black{
+    background-color: black;
+    height: 90px;
+    width: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.image{
+    width: 50%;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image1{
+    width: 2rem;
+}
+.image2{
+    width: 5rem;
+}
